@@ -1,0 +1,26 @@
+{
+  "name": "testbackendrepo2",
+  "version": "1.0.0",
+  "description": "adding data to get commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhtpavankumara/testBackendRepo2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "forever": "^1.0.0",
+    "moment": "^2.27.0",
+    "mongoose": "^5.7.1",
+    "nodemon": "^1.19.2"
+  },
+  "bugs": {
+    "url": "https://github.com/lhtpavankumara/testBackendRepo2/issues"
+  },
+  "homepage": "https://github.com/lhtpavankumara/testBackendRepo2#readme"
+}
